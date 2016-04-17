@@ -16,11 +16,11 @@ Platform
 Attributes
 ----------
 Default node attributes provided by the cookbook.
-- ```node['zmq']['base'] = '/usr/local'```
-- ```node['zmq']['src'] = '/usr/local/src/zmq'```
-- ```node['zmq']['src_url'] = 'https://github.com/zeromq/zeromq4-1.git'```
-- ```node['zmq']['version'] = 'v4.1.4'```
-- ```node['zmq']['lib'] = 'libzmq.so'```
+- `node['zmq']['base'] = '/usr/local'`
+- `node['zmq']['src'] = '/usr/local/src/zmq'`
+- `node['zmq']['src_url'] = 'https://github.com/zeromq/zeromq4-1.git'`
+- `node['zmq']['version'] = 'v4.1.4'`
+- `node['zmq']['lib'] = 'libzmq.so'`
 
 
 <table>
