@@ -3,6 +3,8 @@
 # Copyright 2016, Joshua C. Burt
 ###############################################################################
 
+use_inline_resources
+
 action :compile do
   #############################################################################
   # Execute *nix still compile workflow
