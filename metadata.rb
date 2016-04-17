@@ -9,4 +9,6 @@ version          '0.1.1'
 issues_url 'https://github.com/joshburt/zmq/issues'
 source_url 'https://github.com/joshburt/zmq'
 
+supports 'ubuntu'
+
 depends 'build-essential'
